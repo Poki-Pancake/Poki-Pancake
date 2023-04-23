@@ -1,1 +1,1 @@
-I have moved to [codeberg](https://codeberg.org/pokipan)
+I have moved to [codeberg](https://codeberg.org/pokipan).
